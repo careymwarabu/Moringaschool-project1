@@ -3,6 +3,22 @@
     padding: 0;
 }
 
+#main {
+    height: 100vh;
+}
+
+#about {
+    height: 100vh;
+}
+
+#projects {
+    height: 100vh;
+}
+
+#contact {
+    height: 100vh;
+}
+
 a:link,
 a:visited {
     background-color: #f44336;
