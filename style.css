@@ -4,6 +4,8 @@
 }
 
 #main {
+    background: rgb(38, 29, 186);
+    background: linear-gradient(90deg, rgba(38, 29, 186, 1) 39%, rgba(195, 100, 52, 1) 83%, rgba(255, 128, 0, 1) 100%);
     height: 100vh;
 }
 
@@ -37,4 +39,25 @@ a:active {
 nav {
     padding: 20px;
     background-color: aqua;
+}
+
+.Me {
+    margin-top: 15%;
+    margin-left: 2%;
+    line-height: 3rem;
+    color: black;
+}
+
+#author {
+    color: chocolate;
+}
+
+#skill {
+    color: coral;
+}
+
+.img {
+    float: right;
+    margin-top: -22.3%;
+    height: 1000px;
 }
