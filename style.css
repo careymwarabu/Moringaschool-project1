@@ -11,6 +11,14 @@
 
 #about {
     height: 100vh;
+    text-align: center;
+    line-height: 3rem;
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 39%, rgba(233, 186, 148, 0.46262254901960786) 100%);
+    ;
+}
+
+#about ul {
+    list-style: none;
 }
 
 #projects {
@@ -58,6 +66,5 @@ nav {
 
 .img {
     float: right;
-    margin-top: -22.3%;
-    height: 1000px;
+    margin-top: -21%;
 }
